@@ -24,7 +24,7 @@ main {
 }
 
 header {
-  height: calc(100vh - 50vh);
+  height: calc(100vh - 75vh);
   display: flex;
 }
 
